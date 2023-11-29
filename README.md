@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burak Aksu</h1>
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Android&Kotlin
 - 💬 Ask me about Flutter & Dart
