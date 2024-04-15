@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Android&Kotlin
 - 💬 Ask me about Flutter & Dart
 - 📫 How to reach me **burakaksu576@gmail.com**
-- ⚡ Fun fact: I'm a table tennis player
+- ⚡ Fun fact: I love playing table tennis
 
 <h3 align="center">Mobile Application Developer, Flutter - Android</h3>
 
